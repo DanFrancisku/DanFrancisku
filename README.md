@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Dhanushka (DanFrancisku)
 
-🎓 MSc in Data Science | 🧪 Former Physics Teacher | 💻 Aspiring Data Scientist  
+🎓 MSc in Data Science graduate with a background in Physics education | 💻 Aspiring Data Scientist  
 📍 Based in London, UK  
+
 
 ---
 
